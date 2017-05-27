@@ -232,7 +232,7 @@ pre {
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 0px; }
+  margin-bottom: 15px; }
 
 .contact-list,
 .social-media-list {
@@ -279,7 +279,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 80px 0; }
 
 .page-heading {
   font-size: 20px; }
