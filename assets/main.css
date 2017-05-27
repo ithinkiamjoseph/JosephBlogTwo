@@ -6,17 +6,16 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
+<style>
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+</style> 
 
 /**
  * Basic styling
  */
 body {
-  <style>
-@import url('https://fonts.googleapis.com/css?family=Questrial')
-</style> 
   font-family: 'Questrial', sans-serif;
   font: 400 16px/1.5;
-  
   /**font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;*//
   color: #dcf0e8;
   background-color: #152737;
