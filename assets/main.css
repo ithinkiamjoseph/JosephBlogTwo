@@ -71,7 +71,7 @@ a {
   color: #0d97ff;
   text-decoration: none; }
   a:visited {
-    color: #fcefe6; }
+    color: #85c6f7; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -85,7 +85,7 @@ a {
  */
 blockquote {
   color: #fcefe6;
-  border-left: 4px solid #0d97ff;
+/*  border-left: 4px solid #0d97ff;*/
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -99,7 +99,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #0d97ff;
+  border: 0px solid #0d97ff;
   border-radius: 3px;
   background-color: #fcefe6; }
 
