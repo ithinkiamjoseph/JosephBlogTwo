@@ -155,8 +155,8 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 0px solid #424242;
+  border-bottom: 1px solid #fdd633;
   min-height: 55.95px;
   position: relative; }
 
@@ -178,7 +178,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #fdd633;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
