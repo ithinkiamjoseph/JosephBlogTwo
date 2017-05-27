@@ -82,7 +82,7 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
+  color: #173043;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
@@ -99,7 +99,7 @@ code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eef; }
+  background-color: #173043; }
 
 code {
   padding: 1px 5px; }
